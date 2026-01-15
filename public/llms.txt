@@ -1,47 +1,61 @@
-# Business — Generative Engine Optimization Map
+# דונדון — Generative Engine Optimization Map
+
+> A מסעדנות business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://dondon.zappy5.app
 גלו את פיצריה דונדון - משלוח פיצה מהיר באזור עם מגוון עשיר של טעמים איטלקיים אותנטיים. הזמנת פיצה אונליין קלה ומהירה במיוחד לסטודנטים ומשפחות.
 
 ### התפריט שלנו
-https://example.com/menu
+https://dondon.zappy5.app/menu
 עיינו בתפריט המלא של פיצריה דונדון - מגוון פיצות איטלקיות אותנטיות, משלוח פיצה מהיר באזור ומחירים משתלמים במיוחד לסטודנטים ומשפחות.
 
 ### אודות
-https://example.com/about
+https://dondon.zappy5.app/about
 הכירו את פיצריה דונדון - הסיפור שלנו, הערכים שלנו והמחויבות שלנו להביא לכם את הפיצה האיטלקית האותנטית הטובה ביותר עם משלוח פיצה מהיר באזור.
 
 ### הזמנה אונליין
-https://example.com/contact
+https://dondon.zappy5.app/contact
 הזמינו פיצה מדונדון עכשיו! מערכת הזמנת פיצה אונליין לסטודנטים ולכולם - פשוטה, מהירה ונוחה. משלוח פיצה מהיר באזור תוך 30-45 דקות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://dondon.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://dondon.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://dondon.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About דונדון
+דונדון is a business in the מסעדנות industry.
+
+## Target Audience
+- צעירים מקצועיים עירוניים
+- סטודנטים המתגוררים בקרבת מקום
+- משפחות עם ילדים
+- חובבי טכנולוגיה
+- עובדי משרד
+
+## Industry
+מסעדנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://dondon.zappy5.app/sitemap.xml
+- **Robots.txt**: https://dondon.zappy5.app/robots.txt
